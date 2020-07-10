@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-francisco-masi",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Template para generación de aplicaciones ReactJS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciscomasi/cra-template-francisco-masi.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/franciscomasi/cra-template-francisco-masi/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
